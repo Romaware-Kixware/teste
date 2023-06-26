@@ -1,12 +1,17 @@
 <?php
 
-$test1 = "Prima pagina";
+$test1 = "Prima pagina <br>";
 
 echo $test1;
 
-echo "Modificat din Remote";
+echo "<br>Modificat din Remote";
 
 
-echo "Modificat din local Prima";
+echo "<br>Modificat din local Prima";
+
+
+$teste4 = "Al treilea commit din LOCAL in GitSERVER";
+
+echo $teste4 ;
 
 ?>
