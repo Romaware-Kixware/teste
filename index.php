@@ -1,6 +1,6 @@
 <?php
 
-$test1 = "Prima pagina <br>";
+$test1 = "Prima pagina3424234 <br>";
 
 echo $test1;
 
