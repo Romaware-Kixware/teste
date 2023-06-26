@@ -7,4 +7,6 @@ echo $test1;
 echo "Modificat din Remote";
 
 
+echo "Modificat din local Prima";
+
 ?>
