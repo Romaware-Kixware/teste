@@ -12,7 +12,7 @@ echo "<br>Modificat din local Prima";
 
 
 $teste4 = "<br> git Al treilea commit din LOCAL in GitSERVER";
-=======
+
 $teste4 = "<br> Al treilea commit din LOCAL in GitSERVER";
 $teste5 = "<br>  commit nou ";
 $teste6 = "<br>  commit marti de dimi fla ";
@@ -29,10 +29,9 @@ echo $teste8 ;
 
 $teste9 = "<br>  commit marti de dimi flavius inca din LOCO 2 repo ";
 
-echo $teste10;
-$teste10 = "<br>  commit marti de dimi flavius inca din LOCO 2 repo ";
+echo $teste9;
 
-echo $teste10;
+$testFla2 = "<br>  commit marti fla2 ";
 
-
+echo $testFla2;
 ?>
