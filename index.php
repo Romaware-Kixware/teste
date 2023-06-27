@@ -29,7 +29,10 @@ echo $teste8 ;
 
 $teste9 = "<br>  commit marti de dimi flavius inca din LOCO 2 repo ";
 
-echo $teste9;
+echo $teste10;
+$teste10 = "<br>  commit marti de dimi flavius inca din LOCO 2 repo ";
+
+echo $teste10;
 
 
 ?>
